@@ -5,7 +5,7 @@
 -- Platform    HackerRank
 -- Language    mysql
 -- Status      Accepted
--- Submitted   2026-06-24, 08:49 p.m.
+-- Submitted   2026-06-24, 08:50 p.m.
 -- ──────────────────────────────────────────────────
 
 select  distinct city
